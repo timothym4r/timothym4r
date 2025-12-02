@@ -61,12 +61,17 @@ Welcome to my GitHub profile! I'm a Machine Learning–focused Computer Science 
 
 ## 📫 Let's Connect
 
-Feel free to reach out if you’re interested in:
-- NLP & multilingual AI  
+If you're interested in:
+- Natural Language Processing & multilingual AI  
 - Applied machine learning  
 - Data science collaborations  
 
-🌐 [My Portfolio Website](https://timothym4r.github.io)
-💻 [GitHub](https://github.com/timothym4r)
+You can find me here:
+
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://timothym4r.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/timothym4r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK-HERE)
+[![Email](https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
 
 ---
+
