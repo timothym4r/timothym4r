@@ -1,6 +1,6 @@
 # Hi there, I'm Timothy! 👋
 
-Welcome to my GitHub profile! I'm a Machine Learning–focused Computer Science & Data Science student at [U of T](https://www.utoronto.ca/). I have strong strong interests in **Natural Language Processing (NLP)**, **multilingual AI**, and **applied machine learning systems**. I use GitHub to document my research-oriented projects, experiments, and engineering work.
+Welcome to my GitHub profile! I'm a Machine Learning–focused Computer Science & Data Science student at [UofT](https://www.utoronto.ca/). I have strong strong interests in **Natural Language Processing (NLP)**, **multilingual AI**, and **applied machine learning systems**. I use GitHub to document my research-oriented projects, experiments, and engineering work.
 
 ## 🚀 About Me
 
@@ -58,12 +58,6 @@ Welcome to my GitHub profile! I'm a Machine Learning–focused Computer Science 
 | [Experiment](https://github.com/timothym4r/Experiment) | Experimental workspace for testing ideas and models | Jupyter Notebook |
 | [coba2](https://github.com/timothym4r/coba2) | Small experimental project | - |
 | [JSC270_A4_2024](https://github.com/timothym4r/JSC270_A4_2024) | Statistical assignment project | - |
-
-## 📊 GitHub Stats
-
-![Timothy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timothym4r&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timothym4r&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 
