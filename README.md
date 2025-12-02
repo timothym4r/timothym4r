@@ -66,7 +66,7 @@ Feel free to reach out if you’re interested in:
 - Applied machine learning  
 - Data science collaborations  
 
-- 🌐 [My Portfolio Website](https://timothym4r.github.io)
-- 💻 [GitHub](https://github.com/timothym4r)
+🌐 [My Portfolio Website](https://timothym4r.github.io)
+💻 [GitHub](https://github.com/timothym4r)
 
 ---
