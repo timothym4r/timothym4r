@@ -1,12 +1,12 @@
 # Hi there, I'm Timothy! 👋
 
-Welcome to my GitHub profile! I'm a Machine Learning–focused Computer Science & Data Science student at [UofT](https://www.utoronto.ca/). I have strong strong interests in **Natural Language Processing (NLP)**, **multilingual AI**, and **applied machine learning systems**. I use GitHub to document my research-oriented projects, experiments, and engineering work.
+Welcome to my GitHub profile! I'm a Machine Learning–focused Computer Science & Data Science student at [UofT](https://www.utoronto.ca/). I have strong strong interests in **Natural Language Processing (NLP)** and **applied machine learning systems**. I use GitHub to document my research-oriented projects, experiments, and engineering work.
 
 ## 🚀 About Me
 
 - 🎓 Studying Data Science & Computer Science at the University of Toronto  
 - 🔬 Focused on applied machine learning and NLP  
-- 🌍 Interested in multilingual and cross-lingual AI systems  
+- 🌍 Computational Social Science to understand the current state of world
 - 💡 Motivated by building AI systems that solve real-world problems  
 - 📊 Strong interest in data-driven modeling and statistical analysis  
 
@@ -28,42 +28,12 @@ Welcome to my GitHub profile! I'm a Machine Learning–focused Computer Science 
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 
-## 📂 My Projects
-
-### Featured Projects
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [KTP_recognition](https://github.com/timothym4r/KTP_recognition) | Vision-based AI system for identifying Indonesian government ID images | Python, Machine Learning, Computer Vision |
-| [Politics-and-Corruption-on-FDI-GDP-relation](https://github.com/timothym4r/Politics-and-Corruption-on-FDI-GDP-relation) | Data-driven analysis of how political stability and corruption influence economic growth | Jupyter Notebook, Data Analysis |
-| [bincang](https://github.com/timothym4r/bincang) | A simple web-based chat system project | Web Development |
-| [timothym4r.github.io](https://github.com/timothym4r/timothym4r.github.io) | Personal portfolio website | HTML |
-| [JSC370-Final-Project](https://github.com/timothym4r/JSC370-Final-Project) | Final data science project analyzing real-world datasets | Data Science, HTML |
-
-### Course & Learning Projects
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [STA130_F24_HW](https://github.com/timothym4r/STA130_F24_HW) | Statistics coursework and data analysis assignments | Jupyter Notebook |
-| [JSC370-labs](https://github.com/timothym4r/JSC370-labs) | Lab exercises focusing on applied data science | HTML |
-| [JSC370_2025](https://github.com/timothym4r/JSC370_2025) | Course materials for JSC370 (Data Science) | - |
-| [CSC309-prep](https://github.com/timothym4r/CSC309-prep) | Preparation materials for web development | JavaScript |
-| [309-e10](https://github.com/timothym4r/309-e10) | CSC309 Web Development Exercise 10 | JavaScript |
-| [309-e10-1](https://github.com/timothym4r/309-e10-1) | CSC309 Web Development Exercise 10 (Part 1) | JavaScript |
-
-### Experimental & Other Projects
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Experiment](https://github.com/timothym4r/Experiment) | Experimental workspace for testing ideas and models | Jupyter Notebook |
-| [coba2](https://github.com/timothym4r/coba2) | Small experimental project | - |
-| [JSC270_A4_2024](https://github.com/timothym4r/JSC270_A4_2024) | Statistical assignment project | - |
-
 ## 📫 Let's Connect
 
 If you're interested in:
-- Natural Language Processing & multilingual AI  
-- Applied machine learning  
+- Natural Language Processing 
+- Applied machine learning
+- Computational Social Science  
 - Data science collaborations  
 
 You can find me here:
