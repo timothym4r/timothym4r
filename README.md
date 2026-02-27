@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Machine Learning–focused Computer Science & Data Science student at [UofT](https://www.utoronto.ca/). I have strong strong interests in **Natural Language Processing (NLP)** and **applied machine learning systems**. I use GitHub to document my research-oriented projects, experiments, and engineering work.
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Studying Data Science & Computer Science at the University of Toronto  
 - 🔬 Focused on applied machine learning and NLP  
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a Machine Learning–focused Computer Science 
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 If you're interested in:
 - Natural Language Processing 
